@@ -40,7 +40,6 @@
             <groupId>org.seleniumhq.selenium</groupId>
             <artifactId>selenium-support</artifactId>
             <version>4.14.1</version>
-            <scope>test</scope>
         </dependency>
     </dependencies>
 
